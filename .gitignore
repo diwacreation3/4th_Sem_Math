@@ -2,3 +2,7 @@
 
 *.exe
 *.bin
+
+# exclude vscode things 
+
+.vscode/
