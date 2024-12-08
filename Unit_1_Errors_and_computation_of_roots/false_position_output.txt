@@ -1,0 +1,49 @@
+Enter first guess : 0
+Enter second guess : 1
+Enter tolerable error : 0.00003
+
+***************************
+False position Method
+********************************
+Iteration-1:     x =   0.314665 and f(x) =   0.519871
+Iteration-2:     x =   0.446728 and f(x) =   0.203545
+Iteration-3:     x =   0.494015 and f(x) =   0.070802
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+********************************
+Iteration-1:     x =   0.314665 and f(x) =   0.519871
+Iteration-2:     x =   0.446728 and f(x) =   0.203545
+Iteration-3:     x =   0.494015 and f(x) =   0.070802
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+Iteration-5:     x =   0.515201 and f(x) =   0.007760
+Iteration-6:     x =   0.516922 and f(x) =   0.002539
+********************************
+Iteration-1:     x =   0.314665 and f(x) =   0.519871
+Iteration-2:     x =   0.446728 and f(x) =   0.203545
+Iteration-3:     x =   0.494015 and f(x) =   0.070802
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+Iteration-5:     x =   0.515201 and f(x) =   0.007760
+********************************
+Iteration-1:     x =   0.314665 and f(x) =   0.519871
+Iteration-2:     x =   0.446728 and f(x) =   0.203545
+Iteration-3:     x =   0.494015 and f(x) =   0.070802
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+Iteration-1:     x =   0.314665 and f(x) =   0.519871
+Iteration-2:     x =   0.446728 and f(x) =   0.203545
+Iteration-3:     x =   0.494015 and f(x) =   0.070802
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+Iteration-3:     x =   0.494015 and f(x) =   0.070802
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+Iteration-5:     x =   0.515201 and f(x) =   0.007760
+Iteration-4:     x =   0.509946 and f(x) =   0.023608
+Iteration-5:     x =   0.515201 and f(x) =   0.007760
+Iteration-6:     x =   0.516922 and f(x) =   0.002539
+Iteration-5:     x =   0.515201 and f(x) =   0.007760
+Iteration-6:     x =   0.516922 and f(x) =   0.002539
+Iteration-6:     x =   0.516922 and f(x) =   0.002539
+Iteration-7:     x =   0.517485 and f(x) =   0.000829
+Iteration-7:     x =   0.517485 and f(x) =   0.000829
+Iteration-8:     x =   0.517668 and f(x) =   0.000271
+Iteration-9:     x =   0.517728 and f(x) =   0.000088
+Iteration-10:    x =   0.517748 and f(x) =   0.000029
+
+Root is: 0.517748
