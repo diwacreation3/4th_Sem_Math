@@ -1,0 +1,13 @@
+Enter initial guess: 2
+Enter tolerable error: 0.0001
+Enter maximum iterations: 9
+
+
+*** Newton-Raphson Method Implementation ***
+Iteration-1, x1 = 3.571429 and f(x1) = 18.696793
+Iteration-2, x1 = 3.009378 and f(x1) = 3.207103
+Iteration-3, x1 = 2.864712 and f(x1) = 0.185915
+Iteration-4, x1 = 2.855236 and f(x1) = 0.000771
+Iteration-5, x1 = 2.855197 and f(x1) = 0.000000
+
+Required root is: 2.85519654
